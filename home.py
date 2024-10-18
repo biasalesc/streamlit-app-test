@@ -22,7 +22,10 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-    .css-18ni7ap {
+    .css-18ni7ap { /* Local header */
+    background-color: #1D6893;
+    }
+    .st-emotion-cache-12fmjuu { /* Deploy header */
     background-color: #1D6893;
     }
     </style>
